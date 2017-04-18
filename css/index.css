@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+
+html, body{ height: 100%;}
+
+img{
+    vertical-align: top;
+}
+
+#main{
+    position: relative;
+}
+
+.box{
+    float: left;
+    /*background-color: red;*/
+    padding: 15px 0 0 15px;
+}
+
+.pic{
+    padding: 10px;
+    border:1px solid #ddd;
+    border-radius: 5px;
+    background-color: white;
+}
+
+img{
+    width: 165px;
+}
